@@ -1,15 +1,29 @@
-  #photo {
+h1 {
+  font-family: monospace;
+  font-size: 35px;
+}
+
+
+#photo {
     border-radius: 50%;
   }
 
 .menuu {
     font-size: 32px;
+    font-family: monospace;
 }
 
 .h33 {
     font-size: 28px;
+    font-family: monospace;
 }
 
 .hh3 {
     font-size: 28px;
+    font-family: monospace;
+}
+
+p {
+  font-size: 28px;
+  font-family:monospace;
 }
